@@ -31,6 +31,6 @@ sort: ''
 standalone: false
 tags: []
 graph_target_lines:
-  - series： "Direct economic loss attributed to disasters"
+  - series: "Direct economic loss attributed to disasters"
     unit: "Million US dollars"
     value: 0

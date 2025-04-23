@@ -31,21 +31,21 @@ sort: ''
 standalone: false
 tags: []
 graph_target_lines:
-  - series： "Population using basic drinking water services"
+  - series: "Population using basic drinking water services"
     unit: "% of population"
     value: 100
-  - series： "Population using basic drinking water services"
+  - series: "Population using basic drinking water services"
     unit: "% of rural population"
     value: 100
-  - series： "Population using basic drinking water services"
+  - series: "Population using basic drinking water services"
     unit: "% of urban population"
     value: 100
-  - series： "Population using basic sanitation services"
+  - series: "Population using basic sanitation services"
     unit: "% of population"
     value: 100
-  - series： "Population using basic sanitation services"
+  - series: "Population using basic sanitation services"
     unit: "% of rural population"
     value: 100
-  - series： "Population using basic sanitation services"
+  - series: "Population using basic sanitation services"
     unit: "% of urban population"
     value: 100

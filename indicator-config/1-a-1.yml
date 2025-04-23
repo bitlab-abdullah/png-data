@@ -31,6 +31,6 @@ sort: ''
 standalone: false
 tags: []
 graph_target_lines:
-  - series： "Official development assistance grants for poverty reduction, by recipient countries"
+  - series: "Official development assistance grants for poverty reduction, by recipient countries"
     unit: "% of GNI"
     value: 0.69
