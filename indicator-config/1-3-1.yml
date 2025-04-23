@@ -31,54 +31,54 @@ sort: ''
 standalone: false
 tags: []
 graph_target_lines:
-  - series： "Employed population covered in the event of work injury"
+  - series: "Employed population covered in the event of work injury"
     unit: "% of employed population"
     value: 100
-  - series： "Poor population receiving social assistance cash benefit"
+  - series: "Poor population receiving social assistance cash benefit"
     unit: "% of population"
     value: 100
-  - series： "Population covered by at least one social protection benefit"
+  - series: "Population covered by at least one social protection benefit"
     unit: "% of population"
     value: 100
-  - series： "Population covered by social assistance programs, poorest quintile (1st)"
+  - series: "Population covered by social assistance programs, poorest quintile (1st)"
     unit: "% of population"
     value: 87.19
-  - series： "Population receiving disability cash benefits"
+  - series: "Population receiving disability cash benefits"
     unit: "% of female population with severe disabilities"
     value: 100
-  - series： "Population receiving disability cash benefits"
+  - series: "Population receiving disability cash benefits"
     unit: "% of male population with severe disabilities"
     value: 100
-  - series： "Population receiving disability cash benefits"
+  - series: "Population receiving disability cash benefits"
     unit: "% of population with severe disabilities"
     value: 100
-  - series： "Proportion of children/households receiving child/family cash benefit"
+  - series: "Proportion of children/households receiving child/family cash benefit"
     unit: "% of children/household"
     value: 100
-  - series： "Proportion of children/households receiving child/family cash benefit"
+  - series: "Proportion of children/households receiving child/family cash benefit"
     unit: "% of children/household, female"
     value: 100
-  - series： "Proportion of children/households receiving child/family cash benefit"
+  - series: "Proportion of children/households receiving child/family cash benefit"
     unit: "% of children/household, male"
     value: 100
-  - series： "Proportion of population receiving a pension"
+  - series: "Proportion of population receiving a pension"
     unit: "% of population above statutory pensionable age"
     value: 100
-  - series： "Unemployment benefit coverage"
+  - series: "Unemployment benefit coverage"
     unit: "% of unemployed population"
     value: 100
-  - series： "Unemployment benefit coverage"
+  - series: "Unemployment benefit coverage"
     unit: "% of unemployed population, female"
     value: 100
-  - series： "Unemployment benefit coverage"
+  - series: "Unemployment benefit coverage"
     unit: "% of unemployed population, male"
     value: 100
-  - series： "Vulnerable population receiving social assistance cash benefit"
+  - series: "Vulnerable population receiving social assistance cash benefit"
     unit: "% of vulnerable female population"
     value: 100
-  - series： "Vulnerable population receiving social assistance cash benefit"
+  - series: "Vulnerable population receiving social assistance cash benefit"
     unit: "% of vulnerable male population"
     value: 100
-  - series： "Vulnerable population receiving social assistance cash benefit"
+  - series: "Vulnerable population receiving social assistance cash benefit"
     unit: "% of vulnerable population"
     value: 100
