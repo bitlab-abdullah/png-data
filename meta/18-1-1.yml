@@ -44,8 +44,7 @@ SDG_INDICATOR__GLOBAL: '<p>Indicator 18.1.1: Proportion of population below the 
 SDG_TARGET__GLOBAL: '<p>Target 18.1: By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.90 a day.</p>'
 META_LAST_UPDATE__GLOBAL: '2025-06-15'
 SDG_CUSTODIAN_AGENCIES__GLOBAL: '<p>World Bank (WB)</p>'
-SDG_RELATED_INDICATORS__GLOBAL: '<p>1.2.1 Proportion of population living below the national poverty line</p>
-<p>1.2.2 Proportion of men, women and children of all ages living in poverty</p>'
+SDG_RELATED_INDICATORS__GLOBAL: '<p>1.2.1 Proportion of population living below the national poverty line</p><p>1.2.2 Proportion of men, women and children of all ages living in poverty</p>'
 SDG_INDICATOR_INFO: 'Proportion of population below the international poverty line'
 CONTACT: 'World Bank Data Team'
 IND_DEF_CON_CLASS: 'The proportion of the population below the international poverty line of $1.90 per day.'
